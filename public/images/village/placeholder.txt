@@ -1,0 +1,8 @@
+This folder is for storing local village photos.
+
+Instructions:
+1. Add your photos to this folder
+2. Use formats: .jpg, .png, .webp
+3. Optimize images before adding
+4. Use descriptive filenames
+5. Keep original aspect ratios
