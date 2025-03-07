@@ -113,6 +113,11 @@ const photos = [
     alt: "Локална фотографија",
     caption: ""
   },
+ {
+    src: "/images/village/25.jpg",
+    alt: "Локална фотографија",
+    caption: "na čuku"
+  },
    
  ];
 
